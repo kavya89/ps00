@@ -1,0 +1,62 @@
+Date  Who       Start  	Stop  	Interruptions Question TimeOnTask    Comments
+8/30  Me     	12:30  	13:00                            30    	     Went through "Preparing your laptop for CS5010" .
+8/30  Me     	13:02   13:17                            15    	     Set up CCIS account.
+8/30  Me     	13:17   13:47                            20          Explored what is piazza and tried signing up as i forgot CCIS account takes 2 days for activation .
+====================================================================================================================================================================================================================================================
+8/30  Me     	17:00  	21:00  	(10+20+15)               240         My laptop was not detecting wireless network , so spent most of the time calling customer care , finding out solution in google and installing drivers .
+====================================================================================================================================================================================================================================================
+8/31  Me  	14:05   14:35                            30          Downloaded and installed racket .
+8/31  Me     	14:35   15:05		                 30          SIgned up to Github and explored a bit , created a repository .
+8/31  Me        15:05   15:35                            30          Explored Gravatar but could not upload a pic as i could not find any.
+8/31  Me     	15:35   15:50                            15   	     Installed Github for windows .
+====================================================================================================================================================================================================================================================
+9/2   Me	21:00   21:15                            15	     CHecking activation of CCIS account and filling i am here form .
+====================================================================================================================================================================================================================================================
+9/4   Me        9:30    9:45                 1           15          Completed que . 1 .
+9/4   Me	9.45    10:00		     2		 15	     Completed que 2.
+9/4   Me	10:00	10:35		     3		 35	     Completed que 3.
+9/4   Me	10:35	10:45		     4		 10	     Thought how to tackle que 4.
+9/4   Me	10:45	11:00		     4		 15	     Completed que 4.
+9/4   Me	11:00	11:10		     5		 35	     Completed que 5.
+9/4   Me    	11:10	11:35	(10)	     6		 25	     COmpleted que 6.
+9/4   Me	11:35	11:45		     6		 10	     Pondered how to test imaginary roots in the quation for que 6.
+9/4   Me	11:45	12:30	(15)	     7		 45	     Completed que 7 and spent some time googling on how to test inexact number.
+====================================================================================================================================================================================================================================================
+9/4   Me	14:07	14:22		     8		 15	     Completed que 8.
+9/4   Me	14:22	15:37	(15)	     9		 75	     Partially COmpleted que 9 but was stuck on how to implement even? prdicate which was already existing in the library.STopped there and moved to the next one.
+9/4   Me	15:37	16:00   (10)	    10		 30	     Completed que 10.
+====================================================================================================================================================================================================================================================
+9/6   Me	10:03	10:13		     1		 10	     Revisited que 1 after seeing the doubts asked on que 1 and the solution by students in piazza.
+9/6   Me	10:13	10:18				  5	     Posted on piazza on how to tackle que 9.
+====================================================================================================================================================================================================================================================
+9/6   Me	21:00	21:10		     9		 10	     Revisited que 9 seeing the answers given by students to my post.
+9/6   Me	21:10	21:40				 30	     Exploring Github and discusisng with friends on how to upload assignments . 
+    
+
+################################################################################Commit to git 9/7 4:16##############################################################################################################################################
+
+
+Preparing Laptop (Minutes)			 380   
+Total Time On Task Q1  (minutes)                  25 
+Total Time On Task Q2  (minutes)                  15 
+Total Time On Task Q3  (minutes)                  35 
+Total Time On Task Q4  (minutes)                  25 
+Total Time On Task Q5  (minutes)                  35 
+Total Time On Task Q6  (minutes)                  25 
+Total Time On Task Q7  (minutes)                  30
+Total Time On Task Q8  (minutes)                  15 
+Total Time On Task Q9  (minutes)                  70 
+Total Time On Task Q10 (minutes)                  20 
+Preparing Laptop (hours and tenths) 		 6.3
+TOTQ1 (hours and tenths)                         0.4 
+TOTQ2 (hours and tenths)                         0.2
+TOTQ3 (hours and tenths)                         0.6
+TOTQ4 (hours and tenths)                         0.4
+TOTQ5 (hours and tenths)                         0.6
+TOTQ6 (hours and tenths)                         0.4
+TOTQ7 (hours and tenths)                         0.5
+TOTQ8 (hours and tenths)                         0.2
+TOTQ9 (hours and tenths)                         1.2
+TOTQ10 (hours and tenths)                        0.3
+
+
