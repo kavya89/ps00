@@ -1,0 +1,33 @@
+;3.
+; convertFtoC : Number -> Number
+; GIVEN: a temperature in degrees Fahrenheit as an argument
+; RETURNS: the equivalent temperature in degrees Celsius.
+(define (convertFtoC fahrenheit) (* (- fahrenheit 32) (/ 5 9)))
+
+;Example 1:
+(check-expect (convertFtoC 32) 0)
+
+;Example 2:
+(check-expect (convertFtoC 100) 37.7)
+
+;Example 3:
+(check-expect (convertFtoC 200) 93.3)
+
+;Example 4;
+(check-expect (convertFtoC 0)-17.7)
+
+
+;7.
+; circumference : Number -> Number
+; GIVEN: the radius r of a circle 
+; RETURNS: its circumference, using the formula 2 * pi * r.
+(define (circumference r) (inexact->exact(* 2 pi r)))
+
+;Example 1:
+(check-expect (circumference 1) 6.2831853071795862319959269...)
+
+;Example 2:
+(check-expect (circumference 0) 0)
+
+;Example 3:
+(check-expect (circumference 10) 62.8318530717958623199592693...)
